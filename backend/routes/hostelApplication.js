@@ -8,4 +8,6 @@ router.get("/", getApplications);
 
 router.post("/", createApplication);
 
+
+
 export default router;
